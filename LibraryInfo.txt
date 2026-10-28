@@ -1,0 +1,8 @@
+Student ID: 24-59366-3
+Name: Mohammad Rabiul Hoque
+Department: CSE
+
+Library Book Records:
+1. Golpe Jolpe Genetics - Chamok Hasan
+2. Habluder Jonno Programming - Jhankar Mahbub
+3. Neuron e Onuronon - Kaykobad, Zafar Iqbal
